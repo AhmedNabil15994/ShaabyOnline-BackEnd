@@ -1,0 +1,15 @@
+{
+    "name": "Catalog",
+    "alias": "catalog",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Catalog\\Providers\\CatalogServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+      "composer.php"
+    ],
+    "requires": []
+}

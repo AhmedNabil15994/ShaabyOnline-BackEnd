@@ -1,0 +1,15 @@
+{
+    "name": "Page",
+    "alias": "page",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Page\\Providers\\PageServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}

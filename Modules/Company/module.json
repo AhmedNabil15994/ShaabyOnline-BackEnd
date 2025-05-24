@@ -1,0 +1,15 @@
+{
+    "name": "Company",
+    "alias": "Company",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Company\\Providers\\CompanyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}

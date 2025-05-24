@@ -1,0 +1,13 @@
+{
+    "name": "DriverApp",
+    "alias": "driver_app",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\DriverApp\\Providers\\DriverAppServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

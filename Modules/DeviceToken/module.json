@@ -1,0 +1,13 @@
+{
+    "name": "DeviceToken",
+    "alias": "devicetoken",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\DeviceToken\\Providers\\DeviceTokenServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Vendor",
+    "alias": "vendor",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Vendor\\Providers\\VendorServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}

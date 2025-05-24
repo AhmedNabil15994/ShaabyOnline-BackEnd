@@ -1,0 +1,15 @@
+{
+    "name": "Area",
+    "alias": "area",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Area\\Providers\\AreaServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}

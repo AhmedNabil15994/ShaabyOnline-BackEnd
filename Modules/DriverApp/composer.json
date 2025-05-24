@@ -1,0 +1,24 @@
+{
+    "name": "nwidart/driver_app",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\DriverApp\\Providers\\DriverAppServiceProvider"
+            ],
+            "aliases": {
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\DriverApp\\": ""
+        }
+    }
+}

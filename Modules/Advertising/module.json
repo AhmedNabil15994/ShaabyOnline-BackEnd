@@ -1,0 +1,15 @@
+{
+    "name": "Advertising",
+    "alias": "advertising",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Advertising\\Providers\\AdvertisingServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}

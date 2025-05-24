@@ -1,0 +1,15 @@
+{
+    "name": "Apps",
+    "alias": "apps",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Apps\\Providers\\AppsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+      "composer.php"
+    ],
+    "requires": []
+}

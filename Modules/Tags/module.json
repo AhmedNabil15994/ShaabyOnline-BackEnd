@@ -1,0 +1,15 @@
+{
+    "name": "Tags",
+    "alias": "Tags",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Tags\\Providers\\TagsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "composer.php"
+    ],
+    "requires": []
+}

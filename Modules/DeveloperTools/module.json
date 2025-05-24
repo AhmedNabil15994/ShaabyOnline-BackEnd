@@ -1,0 +1,13 @@
+{
+    "name": "DeveloperTools",
+    "alias": "developertools",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\DeveloperTools\\Providers\\DeveloperToolsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
